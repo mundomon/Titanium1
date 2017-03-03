@@ -1,0 +1,29 @@
+{
+	"name": "Ti",
+	"description": "The Titanium Mobile Web AMD package",
+	"version": "6.0.1",
+	"keywords": ["Titanium", "Ti", "mobile", "JavaScript"],
+	"licenses": [
+		 {
+			 "type": "Apache License v2",
+			 "url": "https://github.com/appcelerator/titanium_mobile/blob/master/LICENSE"
+		 }
+	],
+	"repositories": [
+		{
+			"type": "git",
+			"url": "https://github.com/appcelerator/titanium_mobile.git",
+			"path": "packages/Ti"
+		}
+	],
+	"homepage": "https://github.com/appcelerator/titanium_mobile",
+	"directories": {
+		"lib": "."
+	},
+	"main": "./Ti",
+	"titanium": {
+		"timestamp": "12/20/2016 00:55",
+		"githash": "265db0d",
+		"version": "6.0.1"
+	}
+}
