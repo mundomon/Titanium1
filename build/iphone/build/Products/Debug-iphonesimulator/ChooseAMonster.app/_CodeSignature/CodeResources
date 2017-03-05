@@ -62,7 +62,7 @@
 		</data>
 		<key>Controller.js</key>
 		<data>
-		uiO0Y6pZ7qjEbOpNYOT3qBuS/i4=
+		jYiXMQnHvIgNblESLNg8ewsnDiE=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -146,23 +146,23 @@
 		</data>
 		<key>view/components/ElementList.js</key>
 		<data>
-		ASwjXA7vHThM3G11jq5oTBT/dIc=
+		mvUfxJZPshQQpKu4znuiIjfoVLo=
 		</data>
 		<key>view/components/Header.js</key>
 		<data>
-		Yyl/WkktO5hIcJexKrtPP/e5Q9s=
+		6AB3YQHuVhXWD20hnhzRqawH2WI=
 		</data>
 		<key>view/components/TableRowList.js</key>
 		<data>
-		377e8z4LoC+yPVy8fGD0WT7xtCk=
+		pCgSTnKVcSU8u093HSscAKVUgmc=
 		</data>
 		<key>view/screens/MonsterDetail.js</key>
 		<data>
-		1Nmw+TQ1+ctN8mfZu1b0diekXr8=
+		MSiBvcvMFWyPIfySR2uLAnBuLVw=
 		</data>
 		<key>view/screens/Monsters.js</key>
 		<data>
-		3S4ofa/sni67KXVuHrv0VKZOpHQ=
+		HqEA6pGaf8m9FuRhZRLINltmXJc=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -325,11 +325,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uiO0Y6pZ7qjEbOpNYOT3qBuS/i4=
+			jYiXMQnHvIgNblESLNg8ewsnDiE=
 			</data>
 			<key>hash2</key>
 			<data>
-			fgeEhN+1tBhj6THKbPQAoiU7flY3xC+iLZ5Pj1IwxB0=
+			8TfW56JdYVb2zRm/QbK3nxz1tTEzwbIa6lnLcz89jj4=
 			</data>
 		</dict>
 		<key>LaunchImage-700-568h@2x.png</key>
@@ -534,55 +534,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ASwjXA7vHThM3G11jq5oTBT/dIc=
+			mvUfxJZPshQQpKu4znuiIjfoVLo=
 			</data>
 			<key>hash2</key>
 			<data>
-			TQNd+zqc0S+a9P3H63EvxdC5ZlbfUYU7VF9Iad5XmWs=
+			Xx2H2u+BPe0RZgesSwaMVLGOWd6NFl74+GtEwKjm9Ik=
 			</data>
 		</dict>
 		<key>view/components/Header.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Yyl/WkktO5hIcJexKrtPP/e5Q9s=
+			6AB3YQHuVhXWD20hnhzRqawH2WI=
 			</data>
 			<key>hash2</key>
 			<data>
-			bgsySPGFF5BuW/MQz6h6py6mQ3vYdTwwVOw68tUS59M=
+			Kchus9oJbSiRaCYFD+OTQ0UF2qZpMcTsg2tcMCmPaxw=
 			</data>
 		</dict>
 		<key>view/components/TableRowList.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			377e8z4LoC+yPVy8fGD0WT7xtCk=
+			pCgSTnKVcSU8u093HSscAKVUgmc=
 			</data>
 			<key>hash2</key>
 			<data>
-			HT5J92wMmoaKppgXtrUt9RsYVSGTJHLEP5fymN9gdE0=
+			VlnJmsKrrrgoSvQK+Kt4ZtPFD6a49Cm1b1W+2M5N9+s=
 			</data>
 		</dict>
 		<key>view/screens/MonsterDetail.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1Nmw+TQ1+ctN8mfZu1b0diekXr8=
+			MSiBvcvMFWyPIfySR2uLAnBuLVw=
 			</data>
 			<key>hash2</key>
 			<data>
-			cxF/Q2v1tELdq9vAZxrenVOAbMv69r5sfsifgWx8t3g=
+			bf2NiFoCjusq7gaMhtuVp1Q2uTZDGNxwUfp3JA+Ld6E=
 			</data>
 		</dict>
 		<key>view/screens/Monsters.js</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3S4ofa/sni67KXVuHrv0VKZOpHQ=
+			HqEA6pGaf8m9FuRhZRLINltmXJc=
 			</data>
 			<key>hash2</key>
 			<data>
-			h1aIGROzRJu7pvOcBoHWAgLxV6MH/dnzyoaX6nLUfec=
+			+2ZGPfln7C2fcHtuy21lmmNVOOwGXNVix8lF5YwXsms=
 			</data>
 		</dict>
 	</dict>

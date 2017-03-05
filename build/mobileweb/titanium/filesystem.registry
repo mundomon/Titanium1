@@ -1,4 +1,4 @@
-ts	1488568801000
+ts	1488574743000
 Controller.js	970
 app.js	689
 appicon.png	16659
@@ -185,9 +185,9 @@ titanium.css	8443
 titanium.js	481824
 view
 	components
-		ElementList.js	701
+		ElementList.js	735
 		Header.js	783
 		TableRowList.js	1061
 	screens
-		MonsterDetail.js	672
+		MonsterDetail.js	1030
 		Monsters.js	1767

@@ -26,7 +26,7 @@ function Header() {
                 fontWeight: 'bold', 
             },
             textAlign: 'center',
-            backgroundImage: 'images/headerbg.png',
+            backgroundImage: '/assets/images/headerbg.png',
             backgroundRepeat: true
         });
         this.box = header;

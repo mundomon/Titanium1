@@ -28,36 +28,42 @@ function Monsters() {
 		for (var i=0, j=monster_data.length; i<j; i++) {
 		  var item = monster_data[i];
 		  var row = Ti.UI.createTableViewRow({
-		    height: 85,
+		  	monsterId:item.id,
+		    height: 80,
 		    backgroundColor: oddRow ? '#fff' : '#eee'
 		  });
 
 		  row.add( Ti.UI.createImageView({
 		    image:'/assets/images/' + item.id + '.png',
-		    left:-20,
-			width: 150,
-			height: 80
+		    left:2,
+			width: 112,
+			height: 60
 		  }));
 		  row.add( Ti.UI.createLabel({
 		    color: '#576996',
 		    font: { fontSize: defaultFontSize+6, fontWeight: 'bold'},
 		    text: item.username,
-		    left: 100, top: 6,
+		    left: 110, top: 6,
 		    width: 200, height: 30
 		  }));
 		  row.add( Ti.UI.createLabel({
 		    color: '#888',
 		    font: { fontSize: defaultFontSize, fontWeight: 'normal'},
 		    text: 'Experience: ' + item.exp,
-		    left: 100, top: 40,
+		    left: 110, top: 40,
 		    width: 200, height: 20
 		  }));
+		  row.addEventListener('singletap',function(e){
+        	//alert('pressed button');
+        	Ti.App.controller.show('monster_detail',e.rowData.monsterId);
+        	
+        });
 		 
 		 
 		  tableData.push(row);
 		  oddRow = !oddRow;
 		}
-		var tableView = Ti.UI.createTableView({ data: tableData, width: '90%', height: '80%' });
+		var tableView = Ti.UI.createTableView({ data: tableData, width: '94%', height: '82%',borderRadius:4, });
 		box.add(tableView);
 //fin añadido tableview
        

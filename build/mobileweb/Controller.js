@@ -24,8 +24,8 @@ function Controller(args) {
            screen = new Screen();
 
         }
-/*
-		var on_post = function(){
+
+/*		var on_post = function(){
 			screen.box.removeEventListener('postlayout',on_post);
 			self.current_page && self.win.remove(self.current_page.box);
 			self.current_page=screen;

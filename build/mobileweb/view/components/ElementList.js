@@ -26,6 +26,7 @@ function ElementList(args) {
             backgroundColor: '#ffffff'
         }));
         box.addEventListener('click',function(){
+        	alert('clicked button');
         	Ti.App.controller.show('monster_detail');
         });
         this.box = box;

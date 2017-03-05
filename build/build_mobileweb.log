@@ -1,5 +1,5 @@
 
-3/3/2017, 8:19:59 PM
+3/3/2017, 9:59:01 PM
 
 Operating System
   Name                        = Mac OS X
@@ -21,7 +21,7 @@ Titanium SDK
   Target Platform             = mobileweb
 
 Command
-  /usr/local/bin/node /Users/dedam/.appcelerator/install/6.1.0/package/node_modules/titanium/lib/titanium.js build run --platform mobileweb --log-level trace --sdk 6.0.1.GA --project-dir /Users/dedam/Desktop/AppceleratorMon/ChooseAMonster --deploy-type development --skip-js-minify --no-colors --no-progress-bars --no-prompt --prompt-type socket-bundle --prompt-port 49304 --config-file /var/folders/ny/88xmw3fd2mnc8ph1wbs1s7rw0000gn/T/build-1488568797184.json --no-banner --project-dir /Users/dedam/Desktop/AppceleratorMon/ChooseAMonster
+  /usr/local/bin/node /Users/dedam/.appcelerator/install/6.1.0/package/node_modules/titanium/lib/titanium.js build run --platform mobileweb --log-level trace --sdk 6.0.1.GA --project-dir /Users/dedam/Desktop/AppceleratorMon/ChooseAMonster --deploy-type development --skip-js-minify --no-colors --no-progress-bars --no-prompt --prompt-type socket-bundle --prompt-port 49304 --config-file /var/folders/ny/88xmw3fd2mnc8ph1wbs1s7rw0000gn/T/build-1488574737873.json --no-banner --project-dir /Users/dedam/Desktop/AppceleratorMon/ChooseAMonster
 
 [WARN]   MobileWeb platform has been deprecated and will be removed in 7.0.0.
 [DEBUG]  Detecting modules in /Users/dedam/Library/Application Support/Titanium/modules
@@ -48,7 +48,7 @@ Command
 [DEBUG]  Using default theme
 [TRACE]  offline build file /var/folders/ny/88xmw3fd2mnc8ph1wbs1s7rw0000gn/T/build-b236ad9769603ed4869ea99b645b64a4a5f2af3e.json
 [TRACE]  online 1
-[TRACE]  optimizing build, last build was 23806.08 sec ago
+[TRACE]  optimizing build, last build was 29747.935 sec ago
 [DEBUG]  Deleting existing build directory
 [INFO]   Copying project files
 [DEBUG]  Copying /Users/dedam/Library/Application Support/Titanium/mobilesdk/osx/6.0.1.GA/mobileweb/titanium/Ti/API.js => /Users/dedam/Desktop/AppceleratorMon/ChooseAMonster/build/mobileweb/titanium/Ti/API.js
@@ -340,4 +340,4 @@ Command
 [DEBUG]  Analyzing /Users/dedam/Desktop/AppceleratorMon/ChooseAMonster/build/mobileweb/view/screens/Monsters.js
 [INFO]   Creating the filesystem registry
 [INFO]   Creating the index.html
-[INFO]   Project built successfully in 3s 137ms
+[INFO]   Project built successfully in 3s 413ms

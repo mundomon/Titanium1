@@ -1,5 +1,5 @@
 
-3/3/2017, 8:26:53 PM
+3/5/2017, 9:46:01 PM
 
 Operating System
   Name                        = Mac OS X
@@ -21,7 +21,7 @@ Titanium SDK
   Target Platform             = iphone
 
 Command
-  /usr/local/bin/node /Users/dedam/.appcelerator/install/6.1.0/package/node_modules/titanium/lib/titanium.js build run --platform ios --log-level trace --sdk 6.0.1.GA --project-dir /Users/dedam/Desktop/AppceleratorMon/ChooseAMonster --target simulator --ios-version 10.2 --device-family universal --deploy-type development --sim-type iphone --sim-version 10.2 --device-id BEA86558-DC8A-4D13-941B-C5983D145290 --skip-js-minify --no-colors --no-progress-bars --no-prompt --prompt-type socket-bundle --prompt-port 49304 --config-file /var/folders/ny/88xmw3fd2mnc8ph1wbs1s7rw0000gn/T/build-1488569211121.json --no-banner --project-dir /Users/dedam/Desktop/AppceleratorMon/ChooseAMonster
+  /usr/local/bin/node /Users/dedam/.appcelerator/install/6.1.0/package/node_modules/titanium/lib/titanium.js build run --platform ios --log-level trace --sdk 6.0.1.GA --project-dir /Users/dedam/Desktop/AppceleratorMon/ChooseAMonster --target simulator --ios-version 10.2 --device-family universal --deploy-type development --sim-type iphone --sim-version 10.2 --device-id BEA86558-DC8A-4D13-941B-C5983D145290 --skip-js-minify --no-colors --no-progress-bars --no-prompt --prompt-type socket-bundle --prompt-port 49304 --config-file /var/folders/ny/88xmw3fd2mnc8ph1wbs1s7rw0000gn/T/build-1488746758454.json --no-banner --project-dir /Users/dedam/Desktop/AppceleratorMon/ChooseAMonster
 
 [TRACE]  [ioslib] Validating iOS Simulator UDID BEA86558-DC8A-4D13-941B-C5983D145290
 [TRACE]  [ioslib] Found iOS Simulator UDID BEA86558-DC8A-4D13-941B-C5983D145290
@@ -71,7 +71,7 @@ Command
 [INFO]   Initializing the build directory
 [TRACE]  offline build file /var/folders/ny/88xmw3fd2mnc8ph1wbs1s7rw0000gn/T/build-b236ad9769603ed4869ea99b645b64a4a5f2af3e.json
 [TRACE]  online 1
-[TRACE]  optimizing build, last build was 24220.137 sec ago
+[TRACE]  optimizing build, last build was 3669.603 sec ago
 [INFO]   Creating Xcode project
 [TRACE]  Removing pre-compile phase
 [TRACE]  No native module libraries to add
@@ -193,14 +193,14 @@ Command
 [INFO]   Removing files
 [DEBUG]  Removing empty directories
 [INFO]   Skipping xcodebuild
-[INFO]   Finished building the application in 2s 207ms
+[INFO]   Finished building the application in 3s 117ms
 [INFO]   Launching iOS Simulator
 [TRACE]  [ioslib] Selected iOS Simulator: iPhone 6s
 [TRACE]  [ioslib]   UDID    = BEA86558-DC8A-4D13-941B-C5983D145290
 [TRACE]  [ioslib]   iOS     = 10.2
 [TRACE]  [ioslib] Autoselected Xcode: 8.2.1
 [TRACE]  [ioslib] Checking if simulator /Applications/Xcode.app/Contents/Developer/Applications/Simulator.app/Contents/MacOS/Simulator is already running
-[TRACE]  [ioslib] Simulator is running (pid 21779)
+[TRACE]  [ioslib] Simulator is running (pid 62905)
 [TRACE]  [ioslib] Simulator is booted!
 [TRACE]  [ioslib] iPhone 6s Simulator already running with the correct udid
 [TRACE]  [ioslib] Tailing iPhone 6s Simulator system log: /Users/dedam/Library/Logs/CoreSimulator/BEA86558-DC8A-4D13-941B-C5983D145290/system.log
